@@ -1,6 +1,6 @@
 const Home = () => {
   return ( 
-    <p>Hello, World!</p>
+    <p classname='italic'>Hello, World!</p>
    );
 }
  
